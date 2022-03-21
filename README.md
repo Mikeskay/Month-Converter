@@ -9,10 +9,10 @@ Write a Java program that reads an integer value between 1 and 12 from the comma
 int month = Integer.parseInt(args[0]);  
 
  
-# calling the program as follows: 
+calling the program as follows: 
 
 java MonthConverter 1  
 
-# output: 
+output: 
 
 Month 1 is January.
